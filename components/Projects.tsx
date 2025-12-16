@@ -9,7 +9,7 @@ const projects: ProjectItem[] = [
   { id: 3, title: 'Diagrams', category: 'Diagrams', imageUrl: 'https://picsum.photos/600/400?random=3', projectUrl: '#' },
   { id: 4, title: 'Corporate Dash', category: 'Development', imageUrl: 'https://picsum.photos/600/400?random=4', projectUrl: '#' },
   { id: 5, title: 'OneDraw lotto', category: 'Mobile Web', imageUrl: 'images/lotto1.png', projectUrl: 'https://one-draw-five.vercel.app/' },
-  { id: 6, title: 'Estate Agent', category: 'Business', imageUrl: 'https://picsum.photos/600/400?random=6', projectUrl: '#' },
+  { id: 6, title: 'LURE Weddings', category: 'Business', imageUrl: 'images/lure.png', projectUrl: 'https://lure-weddings-w8jl.vercel.app/' },
 ];
 
 const Projects: React.FC = () => {
