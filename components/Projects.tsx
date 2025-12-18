@@ -6,7 +6,7 @@ import { ExternalLink } from 'lucide-react';
 const projects: ProjectItem[] = [
   { id: 1, title: 'Wilmac Insurances', category: 'Mobile Web', imageUrl: 'images/wilmac.png', projectUrl: 'https://wilmac-insurances.vercel.app/' },
   { id: 2, title: 'Portfolio', category: 'Portfolio', imageUrl: 'images/port.png', projectUrl: 'https://my-portfolio-hwxv.vercel.app/' },
-  { id: 3, title: 'VOSE MOTORS', category: 'Diagrams', imageUrl: 'images/Screenshot 2025-12-18 020244.png', projectUrl: 'https://vose-motors.vercel.app/' },
+  { id: 3, title: 'VOSE MOTORS', category: 'Business', imageUrl: 'images/Screenshot 2025-12-18 020244.png', projectUrl: 'https://vose-motors.vercel.app/' },
   { id: 4, title: 'Corporate Dash', category: 'Development', imageUrl: 'https://picsum.photos/600/400?random=4', projectUrl: '#' },
   { id: 5, title: 'OneDraw lotto', category: 'Mobile Web', imageUrl: 'images/lotto1.png', projectUrl: 'https://one-draw-five.vercel.app/' },
   { id: 6, title: 'LURE Weddings', category: 'Business', imageUrl: 'images/lure.png', projectUrl: 'https://lure-weddings-w8jl.vercel.app/' },
